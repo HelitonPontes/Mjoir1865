@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\Mjoir1865\bin\Debug\Mjoir1865.exe.config
+C:\Users\Heliton\Source\Repos\Mjoir1865\bin\Debug\Mjoir1865.exe
+C:\Users\Heliton\Source\Repos\Mjoir1865\bin\Debug\Mjoir1865.pdb
+C:\Users\Heliton\Source\Repos\Mjoir1865\obj\Debug\Mjoir1865.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Mjoir1865\obj\Debug\Mjoir1865.exe
+C:\Users\Heliton\Source\Repos\Mjoir1865\obj\Debug\Mjoir1865.pdb
